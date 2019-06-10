@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DynamicLanguage</string>
+    <string name="settings_page">Settings Page</string>
+    <string name="hello_text">Hello World!</string>
+    <string name="chinese">chinese</string>
+    <string name="english">english</string>
+</resources>

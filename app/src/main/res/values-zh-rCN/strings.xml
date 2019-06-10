@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">DynamicLanguage</string>
+	<string name="settings_page">设置页面</string>
+	<string name="hello_text">你好，世界！</string>
+	<string name="chinese">中文</string>
+	<string name="english">英语</string>
+</resources>
